@@ -14,7 +14,7 @@ On the other hand, when include module is used, all statements are processed onl
 
 Note: For most projects, static assignments are preferred as they are more reliable. Dynamic assignments can be challenging in the debugging process. However, they can be useful for environment specific variables as in this project.
 
-## Step 1 - Introducing Dynamic Assignment Into Our structure
+## Introducing Dynamic Assignment Into Our structure
 
 1. In our https://github.com//ansible-config-mgt GitHub repository create a new branch called `dynamic-assignments`.
 
