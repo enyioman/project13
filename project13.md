@@ -1,6 +1,6 @@
 # Ansible Dynamic Assignments (Include) and Community Roles
 
-In this project, the UAT servers will be configured to learn about and practice using new Ansible concepts and modules. This project will introduce dynamic assignments by using the include module. The static assignments from Project 12 use the import Ansible module. The module that enables dynamic assignments is include.
+This project will introduce dynamic assignments by using the include module. The static assignments from Project 12 use the import Ansible module. The module that enables dynamic assignments is include.
 
 
 ```
